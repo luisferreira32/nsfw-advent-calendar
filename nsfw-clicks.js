@@ -19,7 +19,7 @@ const treats = [
   "Cuddle marathon",
   "15 Kisses",
   "Wet kiss",
-  "Love poem cuppon",
+  "Love poem cupon",
   "Fancy breakfast",
   "Presents!",
   "Christmaaaaaas",
